@@ -1,3 +1,3 @@
 # training9
 This is my first Git Repository.
-Name: Taranpreet 
+Name: Taranpreet Singh
